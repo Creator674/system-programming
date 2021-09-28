@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/programming/projects/lab1/dns.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+dns.h
+D:/programming/projects/lab1/dns.h
+list.h
+D:/programming/projects/lab1/list.h
+
+D:/programming/projects/lab1/dns.h
+
+D:/programming/projects/lab1/list.c
+list.h
+D:/programming/projects/lab1/list.h
+malloc.h
+-
+
+D:/programming/projects/lab1/list.h
+
+D:/programming/projects/lab1/main.c
+stdio.h
+-
+malloc.h
+-
+time.h
+-
+string.h
+-
+dns.h
+D:/programming/projects/lab1/dns.h
+
