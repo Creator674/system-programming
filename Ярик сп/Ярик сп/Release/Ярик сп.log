@@ -1,0 +1,8 @@
+﻿  main.c
+D:\2 курс\Программирование\Ярик сп\Ярик сп\main.c(34,28): warning C4013: PrintProcessThreads: нет определения; предполагается "extern" с возвратом типа "int"
+D:\2 курс\Программирование\Ярик сп\Ярик сп\main.c(36,28): warning C4013: PrintProcessModules: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Ярик сп.vcxproj -> D:\2 курс\Программирование\Ярик сп\Release\Ярик сп.exe
